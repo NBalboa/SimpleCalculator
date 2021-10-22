@@ -1,0 +1,7 @@
+C:\Users\Megumin\source\repos\SimpleCalculator_Balboa_App\SimpleCalculator_Balboa\bin\Debug\SimpleCalculator_Balboa.exe.config
+C:\Users\Megumin\source\repos\SimpleCalculator_Balboa_App\SimpleCalculator_Balboa\bin\Debug\SimpleCalculator_Balboa.exe
+C:\Users\Megumin\source\repos\SimpleCalculator_Balboa_App\SimpleCalculator_Balboa\bin\Debug\SimpleCalculator_Balboa.pdb
+C:\Users\Megumin\source\repos\SimpleCalculator_Balboa_App\SimpleCalculator_Balboa\obj\Debug\SimpleCalculator_Balboa.csprojAssemblyReference.cache
+C:\Users\Megumin\source\repos\SimpleCalculator_Balboa_App\SimpleCalculator_Balboa\obj\Debug\SimpleCalculator_Balboa.csproj.CoreCompileInputs.cache
+C:\Users\Megumin\source\repos\SimpleCalculator_Balboa_App\SimpleCalculator_Balboa\obj\Debug\SimpleCalculator_Balboa.exe
+C:\Users\Megumin\source\repos\SimpleCalculator_Balboa_App\SimpleCalculator_Balboa\obj\Debug\SimpleCalculator_Balboa.pdb

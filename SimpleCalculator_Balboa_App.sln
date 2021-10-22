@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1585
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator_Balboa", "SimpleCalculator_Balboa\SimpleCalculator_Balboa.csproj", "{FB5BA776-AF5F-407E-B3D9-EF6424C7A00D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB5BA776-AF5F-407E-B3D9-EF6424C7A00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5BA776-AF5F-407E-B3D9-EF6424C7A00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5BA776-AF5F-407E-B3D9-EF6424C7A00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5BA776-AF5F-407E-B3D9-EF6424C7A00D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3E3EECB-CFEA-4AE1-8E17-B85E09E9814B}
+	EndGlobalSection
+EndGlobal
